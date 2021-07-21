@@ -12,8 +12,15 @@ func(1, 2,
 
 
 class Robot:
+    """
+    Class: Robot!!!
+    """
 
-    def __init__(self, name, age):
+    def __init__(self, name, age) -> object:
+        """
+
+        :rtype: object
+        """
         self.name = name
         self.age = age
 
