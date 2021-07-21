@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""Utilities for writing code that runs on Python2 and 3"""
+
+
 def func(arg1, arg2,
          arg3, arg4):
     pass
@@ -18,6 +22,7 @@ class Robot:
 
     def say(self, message):
         return f'{message}'
+
 
 r = Robot("qwerty", 84)
 
