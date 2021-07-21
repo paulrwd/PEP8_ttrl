@@ -24,6 +24,9 @@ class Robot:
         return f'{message}'
 
 
+d = {1: 100, 2: 200}
+print(d[1])
+
 r = Robot("qwerty", 84)
 
 print(r.hello())
