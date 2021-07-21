@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Utilities for writing code that runs on Python2 and 3"""
+"""Utilities for writing code that runs on Python 2 and 3"""
 
 
 def func(arg1, arg2,
