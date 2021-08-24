@@ -20,3 +20,9 @@ for i in l1:
     if i != '':
         string2 += i + ' '
 print(string2)
+
+list2 = ['1','2','30']
+list2.insert(2,'3')
+print(list2)
+list2.insert(20,'323')
+print(list2)
