@@ -25,4 +25,6 @@ list2 = ['1','2','30']
 list2.insert(2,'3')
 print(list2)
 list2.insert(20,'323')
-print(list2)
+list2[1:2] = ['sdfs', 'sdfss']
+number_things  = (number for number in range(1,6))
+print(type(number_things), number_things)
