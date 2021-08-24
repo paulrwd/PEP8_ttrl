@@ -28,3 +28,5 @@ list2.insert(20,'323')
 list2[1:2] = ['sdfs', 'sdfss']
 number_things  = (number for number in range(1,6))
 print(type(number_things), number_things)
+set1 = set('122121235455123111')
+print(set1)
